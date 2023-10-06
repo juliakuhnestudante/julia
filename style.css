@@ -1,0 +1,39 @@
+*{
+    margin: 0; 
+    padding: 0;
+ }
+ 
+ .cabecalho {
+     background-color: #85a389;
+     color: #000000;
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+     padding: 24px 0;
+ }
+ 
+ .cabecalho-imagem{
+     width: 20%;
+ }
+ 
+ .cabecalho-lista-item{
+     display: inline-block;
+     margin: 0 16px;
+     font-size: 24px;
+ }
+
+.globo-imagem{
+    width: 15%;
+}
+ .cabecalho{
+    background-image: linear-gradient(#637a66, #82a57a);
+ }
+
+ .secao-1{
+    background-image: linear-gradient(#82a57a, #82a57a);
+    display: flex;
+ }
+ 
+ .escola-div-conteudo{
+    width: 65%;
+ }
